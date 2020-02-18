@@ -1,0 +1,11 @@
+{
+	"name": "CustomerTable",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=dandbfortest.database.windows.net;initial catalog=SSDTtest;user id=liud"
+		}
+	}
+}
