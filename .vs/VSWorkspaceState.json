@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\factorydata",
+    "\\factorydata\\dataset",
+    "\\factorydata\\linkedService"
+  ],
+  "SelectedNode": "\\factorydata\\dataset\\AzureSqlTable1.json",
+  "PreviewInSolutionExplorer": false
+}
