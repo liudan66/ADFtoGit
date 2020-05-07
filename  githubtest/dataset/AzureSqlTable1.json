@@ -1,6 +1,7 @@
 {
 	"name": "AzureSqlTable1",
 	"properties": {
+		"description": "222",
 		"linkedServiceName": {
 			"referenceName": "AzureSqlDatabase1",
 			"type": "LinkedServiceReference"
