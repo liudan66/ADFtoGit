@@ -1,0 +1,11 @@
+{
+	"name": "sqlpool1",
+	"location": "eastus2euap",
+	"sku": {
+		"name": "DW100c"
+	},
+	"properties": {
+		"collation": "SQL_Latin1_General_CP1_CI_AS",
+		"annotations": []
+	}
+}
