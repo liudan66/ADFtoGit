@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFDan"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
@@ -18,10 +21,19 @@
 			"value": ""
 		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
-			"value": "https://dansynapsestoragev2.dfs.core.windows.net"
+			"value": "https://chayangstoragewestus2.dfs.core.windows.net"
 		},
 		"AzureDataLakeStorage2_properties_typeProperties_url": {
 			"value": "https://dansynapsestroage.dfs.core.windows.net"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://Dandatafactorykeyvault.vault.azure.net/"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_connectionString_secretName": {
+			"value": "dansqldb"
+		},
+		"BranchIR_properties_typeProperties_ssisProperties_catalogInfo_catalogServerEndpoint": {
+			"value": "anvangtest.database.windows.net"
 		},
 		"containerUri": {
 			"value": ""
