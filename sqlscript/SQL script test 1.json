@@ -1,5 +1,5 @@
 {
-	"name": "SQL script 1",
+	"name": "SQL script test 1",
 	"properties": {
 		"content": {
 			"query": "select * from test",
