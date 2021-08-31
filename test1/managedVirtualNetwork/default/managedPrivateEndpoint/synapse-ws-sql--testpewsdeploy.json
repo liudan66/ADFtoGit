@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--testpewsdeploy",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/051ddeca-1ed6-4d8b-ba6f-1ff561e5f3b3/resourceGroups/Dansynapse/providers/Microsoft.Synapse/workspaces/testpewsdeploy",
+		"groupId": "sql",
+		"fqdns": [
+			"testpewsdeploy.6a389ab6-cdf0-41a2-9514-e76d76b45065.sql.azuresynapse.net"
+		]
+	}
+}
